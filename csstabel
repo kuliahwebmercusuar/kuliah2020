@@ -1,0 +1,33 @@
+<!DOCTYPE html, css table>
+<html>
+<head>
+ <link rel="stylesheet" type="text/css" href="../css/tampilan.css">
+</head>
+<body>
+<h2>STMIK Mercusuar</h2>
+<p>Alamat : Jl. Jatiwaringin Raya 144 Bekasi</p>
+<h1><center>Data Nilai Pemrograman Web</h1>
+<table border="1px">
+  <tr>
+    <th>NIM</th>
+    <th>Nama</th>
+    <th>Nilai</th>
+  </tr>
+  <tr>
+    <td>1857202030</td>
+    <td>Fitri</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>1857202031</td>
+    <td>Udin</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>1857202032</td>
+    <td>Johan</td>
+    <td>A</td>
+  </tr>
+</table>
+</body>
+</html>
